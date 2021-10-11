@@ -1,4 +1,4 @@
-# predictive_ws
+# Predictive Ws
 
 This project attempts to predict students that completely withdraw from their entire course load after the semester has started. 
 
